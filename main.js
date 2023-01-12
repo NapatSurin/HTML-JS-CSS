@@ -60,8 +60,8 @@ function mylasrtf()
     var Num1 = document.getElementById("numm1").value;
     var Num2 = document.getElementById("numm2").value;
     var sum = parseInt(Num1) /(0.0001*(parseInt(Num2)*parseInt(Num2)));
-    document.getElementById("return").innerHTML = "result : " + sum;
-    alert(sum)
+    document.getElementById("return").innerHTML = "result : " + sum.toFixed(2);
+    alert(sum.toFixed(2))
 }
 const img =document.createElement("img")//ประกาศตัวแปร และใช้คำสั่ง createElement
 img.src = "img/name.png"
