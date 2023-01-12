@@ -1,0 +1,49 @@
+#cal
+{
+    text-align: center;
+    color: red;
+}
+#calcutora
+{
+    background-color: rgb(67, 249, 255);
+    display: block;
+    font-size: 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 15px;
+}
+#calcutorb
+{
+    background-color: rgb(67, 249, 255);
+    display: block;
+    font-size: 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 15px;
+}
+#calcutorc
+{
+    background-color: rgb(67, 249, 255);
+    display: block;
+    font-size: 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 15px;
+}
+#calcutord
+{
+    background-color: rgb(67, 249, 255);
+    display: block;
+    font-size: 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 15px;
+}
+#img
+{
+    text-align:center;
+}
